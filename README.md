@@ -42,3 +42,8 @@
     # Create the Keras model.
     model = keras.Model(inputs=inputs, outputs=logits)
     ```
+    
+    
+### Readings
+* Tutorial 6: Transformers and Multi-Head Attention, https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial6/Transformers_and_MHAttention.html
+    
